@@ -7,6 +7,7 @@
           >News</nuxt-link
         >
         <a href="/news/456"> Dynamic</a>
+        <a href="/aaawad"> Error Page</a>
       </li>
     </ul>
   </div>
