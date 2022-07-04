@@ -30,7 +30,12 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    '@nuxtjs/toast'
   ],
+  toast: {
+    position: 'top-center',
+    duration: 3000
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {

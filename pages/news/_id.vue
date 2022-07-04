@@ -12,5 +12,8 @@ export default {
     console.log(params.id)
     return params.id === '456'
   },
+  mounted() {
+    this.$toast.show('Toast testing')
+  },
 }
 </script>
