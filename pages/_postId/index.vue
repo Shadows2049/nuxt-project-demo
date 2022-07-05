@@ -40,7 +40,8 @@ export default {
 }
 
 .post-content {
-  wiwdth: 80%;
+  text-align: center;
+  width: 80%;
   max-width: 500px;
   margin: auto;
 }

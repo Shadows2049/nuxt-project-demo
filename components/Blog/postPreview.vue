@@ -45,7 +45,7 @@ a {
   border-radius: 3px;
   box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.5);
   width: 90%;
-  margin: auto;
+
   height: 20 rem;
   margin: 1rem;
 }
